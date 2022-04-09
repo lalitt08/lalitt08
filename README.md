@@ -1,18 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-9224
-Fork on GitHub
-2083
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
 preview
 <h1 align="center">Hey Geek's👋, I'm Lalit Sangore</h1>
 <h3 align="center">A passionate Python programmer from India</h3>
