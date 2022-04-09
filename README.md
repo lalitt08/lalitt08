@@ -1,5 +1,5 @@
-![MasterHead](https://images.app.goo.gl/goLzUVQj91za1ZfG6)
-preview
+p![main jpg](https://user-images.githubusercontent.com/96982204/162586388-615924fa-2008-4b46-a8d6-02669cde7afc.jpg)
+review
 <h1 align="center">Hey Geek's👋, I'm Lalit Sangore</h1>
 <h3 align="center">A passionate Python programmer from India</h3>
 
