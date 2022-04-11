@@ -1,5 +1,4 @@
-p![main jpg](https://user-images.githubusercontent.com/96982204/162586388-615924fa-2008-4b46-a8d6-02669cde7afc.jpg)
-review
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hey Geek's👋, I'm Lalit Sangore</h1>
 <h3 align="center">A passionate Python programmer from India</h3>
 
