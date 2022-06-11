@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://iwconnect.com/wp-content/uploads/2020/12/IW-Accelerators-gif_4-1.gif)
 <h1 align="center">Hey Geek's👋, I'm Lalit Sangore</h1>
 <h3 align="center">A passionate Python programmer from India</h3>
 
