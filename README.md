@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, Front-End-Development, Data Science**
 
-- 📝 I regularly write articles on [instagram.com/@mr.starkk8](instagram.com/@mr.starkk8)
+- 📝 I regularly posting on [instagram.com/@mr.starkk8](instagram.com/@mr.starkk8)
 
 - 💬 Ask me about **Python and Technical Things**
 
